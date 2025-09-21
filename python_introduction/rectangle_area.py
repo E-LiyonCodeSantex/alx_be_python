@@ -1,5 +1,5 @@
 # values
-length  = 10
+length = 10
 width = 5
 
 # Calculate the Area of a Rectangle
