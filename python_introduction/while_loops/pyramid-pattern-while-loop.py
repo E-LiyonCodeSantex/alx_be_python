@@ -15,6 +15,6 @@ while i <= rows:
         print("*", end="")
         star += 1
 
-    # Move to the next line
+    # Move to the next line weather_advice.py
     print()
     i += 1
